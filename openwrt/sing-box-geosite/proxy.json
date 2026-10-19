@@ -2,7 +2,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "dmm.co.jp"
+        "dmm.co.jp","whatismyip.com.tw"
       ]
     }
   ],
