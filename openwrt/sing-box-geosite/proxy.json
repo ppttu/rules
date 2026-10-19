@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": []
+    },
+    {
+      "domain_suffix": [
+        "dmm.co.jp",
+        "whatismyip.com.tw"
+      ]
+    }
+  ],
+  "version": 2
+}
