@@ -2,10 +2,43 @@
   "rules": [
     {
       "domain_suffix": [
-        "dmm.co.jp","whatismyip.com.tw"
+        "ggpht.cn",
+        "ggpht.com",
+        "googlevideo.com",
+        "gvt1.com",
+        "gvt2.com",
+        "video.google.com",
+        "youtu.be",
+        "yt.be",
+        "ytimg.com","atom.io",
+        "dependabot.com",
+        "gh.io",
+        "ghcr.io",
+        "ghe.com",
+        "git.io",
+        "gitbook.com",
+        "gitbook.io",
+        "gitbook.zendesk.com",
+        "gitlab-assets.oss-cn-hongkong.aliyuncs.com",
+        "gitlab-static.net",
+        "gitlab.com",
+        "gitlab.io",
+        "gitlab.net",
+        "gitter-static.net",
+        "gitter.im",
+        "myoctocat.com",
+        "npm.community",
+        "npmjs.com",
+        "npmjs.org",
+        "octocaptcha.com",
+        "opensource.guide",
+        "rawgit.com",
+        "rawgithub.com",
+        "repo.new",
+        "thegithubshop.com"
       ],
       "domain_keyword": [
-        "youtube"
+        "youtube","github"
       ]
     }
   ],
